@@ -1,0 +1,4 @@
+.venv
+**/__pychace__
+inventory.json
+__pycache__/
